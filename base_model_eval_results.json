@@ -1,0 +1,2038 @@
+[
+  {
+    "note_id": "1450322-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Ascending aortic aneurysm",
+        "Coronary artery disease (CAD)",
+        "Aortic insufficiency",
+        "Systolic dysfunction"
+      ],
+      "medications": [
+        {
+          "name": "Etomidate",
+          "dose": null
+        },
+        {
+          "name": "Succinylcholine",
+          "dose": null
+        },
+        {
+          "name": "Fentanyl",
+          "dose": null
+        },
+        {
+          "name": "Midazolam",
+          "dose": null
+        },
+        {
+          "name": "Isoflurane",
+          "dose": null
+        },
+        {
+          "name": "Pancuronium",
+          "dose": null
+        },
+        {
+          "name": "Heparin",
+          "dose": null
+        },
+        {
+          "name": "Amiodarone",
+          "dose": null
+        },
+        {
+          "name": "Epinephrine",
+          "dose": null
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "544880-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Ventricular septum defect (VSD)",
+        "Bacterial endocarditis",
+        "Rapidly progressive glomerulonephritis"
+      ],
+      "medications": [
+        {
+          "name": "Penicillin G",
+          "dose": "intensive antibiotic therapy"
+        },
+        {
+          "name": "Ampicillin",
+          "dose": ""
+        },
+        {
+          "name": "Imipenem",
+          "dose": ""
+        },
+        {
+          "name": "Methylprednisolone",
+          "dose": "0.5-g per day for 3 consecutive days"
+        },
+        {
+          "name": "Prednisolone",
+          "dose": "30-mg, 20-mg, and 10-mg per day each for 3 days, respectively"
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "1459267-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Mechanical small bowel obstruction",
+        "Chronic non-specific inflammatory reaction",
+        "Mature fibrous tissue"
+      ],
+      "medications": [
+        {
+          "name": "Calcium channel blockers",
+          "dose": "used for two years"
+        },
+        {
+          "name": "Theophylline",
+          "dose": "used for two years"
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "1166581-2",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Localized Castleman's disease of the hyaline vascular type"
+      ],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "555544-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Multifocal osteomyelitis",
+        "Chronic granulomatous disease (CGD)",
+        "Invasive aspergillosis"
+      ],
+      "medications": [
+        {
+          "name": "Cephalexin",
+          "dose": "150 mg/kg/day"
+        },
+        {
+          "name": "Co-trimoxazole",
+          "dose": "20 mg/kg/day, iv"
+        },
+        {
+          "name": "Interferon-\u03b3",
+          "dose": "50 microgram/m2 every other day, sc"
+        },
+        {
+          "name": "Deoxycholate Amphotericin B",
+          "dose": "1 mg/kg/day, iv"
+        },
+        {
+          "name": "Rifampicin",
+          "dose": "10 mg/kg/day"
+        },
+        {
+          "name": "Potassium chloride",
+          "dose": "15%"
+        },
+        {
+          "name": "Itraconazole",
+          "dose": "4 mg/kg/day"
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "1479346-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Desmoid tumor",
+        "Familial polyposis",
+        "Adrenal adenoma",
+        "Cholelithiasis"
+      ],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "1459932-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Domestically Acquired Particulate Lung Disease",
+        "Sarcoidosis"
+      ],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "1087841-6",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Lower respiratory tract infection",
+        "Urinary Tract Infection (UTI)",
+        "Obstructive hydrocephalus",
+        "CNS infection"
+      ],
+      "medications": [
+        {
+          "name": "Colistin",
+          "dose": "6 days of treatment"
+        },
+        {
+          "name": "Ceftazidime",
+          "dose": "combination treatment with colistin"
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "544353-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Acute urinary retention",
+        "Benign prostatic hyperplasia",
+        "Chronic lymphocytic leukemia",
+        "Prostate adenocarcinoma"
+      ],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "1543644-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Haematoma of the left testis",
+        "Necrotic testis"
+      ],
+      "medications": [
+        {
+          "name": "Warfarin",
+          "dose": "But daily oral administration of 6 mg"
+        },
+        {
+          "name": "Enoxaparin",
+          "dose": "1 mg/kg (self-administered)"
+        },
+        {
+          "name": "Clopidogrel",
+          "dose": "75 mg daily"
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "514562-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "seizure disorder",
+        "sepsis"
+      ],
+      "medications": [
+        {
+          "name": "baclofen",
+          "dose": "120 mg daily in four divided doses"
+        },
+        {
+          "name": "lorazepam",
+          "dose": "4-8 mg every four hours"
+        },
+        {
+          "name": "phenytoin",
+          "dose": ""
+        },
+        {
+          "name": "pantoprazole",
+          "dose": ""
+        },
+        {
+          "name": "piperacillin/tazobactem",
+          "dose": ""
+        },
+        {
+          "name": "dopamine",
+          "dose": ""
+        },
+        {
+          "name": "norepinephrine",
+          "dose": ""
+        },
+        {
+          "name": "propofol",
+          "dose": ""
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "1199630-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Squamous cell carcinoma of the left buccal mucosa",
+        "Osteogenic sarcoma of maxilla"
+      ],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "1482719-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Esophageal varices",
+        "Portal cavernoma",
+        "Factor V deficiency",
+        "Hypersplenism"
+      ],
+      "medications": [
+        {
+          "name": "FFP (fresh frozen plasma)",
+          "dose": "1500 ml, 900 ml, and 600-450 ml every 12 hours for the first 48 hours and next 48 hours"
+        },
+        {
+          "name": "Amoxicillin with clavulinic acid",
+          "dose": ""
+        },
+        {
+          "name": "amikacin",
+          "dose": ""
+        },
+        {
+          "name": "Teicoplanin",
+          "dose": ""
+        },
+        {
+          "name": "Piperacillin-tazobactam",
+          "dose": ""
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "547911-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Enterococcal meningitis"
+      ],
+      "medications": [
+        {
+          "name": "Methotrexate",
+          "dose": null
+        },
+        {
+          "name": "Steroids",
+          "dose": null
+        },
+        {
+          "name": "Meropenem",
+          "dose": null
+        },
+        {
+          "name": "Cotrimoxazole",
+          "dose": null
+        },
+        {
+          "name": "Acyclovir",
+          "dose": null
+        },
+        {
+          "name": "Dexamethasone",
+          "dose": null
+        },
+        {
+          "name": "Ampicillin-sulbactam",
+          "dose": "3 g every 6 hours"
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "1459174-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Squamous cell carcinoma of the lower third esophagus"
+      ],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "1475856-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Coarctation of the Aorta",
+        "Aortic Stenosis"
+      ],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "1562439-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Familial Keloid Syndrome",
+        "Keloids"
+      ],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "524513-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Hyponatraemia",
+        "Viral gastroenteritis",
+        "Meningo-encephalitis (Neisseria meningitidis group B, type NT, subtype NT P1.16/nt)",
+        "Oesophagitis"
+      ],
+      "medications": [
+        {
+          "name": "Normal saline",
+          "dose": "Slow intravenous rehydration"
+        },
+        {
+          "name": "Anti-emetic therapy",
+          "dose": "Unspecified"
+        },
+        {
+          "name": "Ceftriaxone",
+          "dose": "Intravenous, 10-day course"
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "1386707-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Salient plaster ingestion",
+        "Suicidal attempt"
+      ],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "1501004-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "IgA nephropathy",
+        "Glioblastoma multiforme"
+      ],
+      "medications": [
+        {
+          "name": "Cyclosporine",
+          "dose": "immunosuppressive regimen"
+        },
+        {
+          "name": "Azathioprine",
+          "dose": "immunosuppressive regimen"
+        },
+        {
+          "name": "Prednisolone",
+          "dose": "immunosuppressive regimen"
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "1560153-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Acute Pancreatitis",
+        "Drug-Induced Pancreatitis (secondary to Orlistat)"
+      ],
+      "medications": [
+        {
+          "name": "Diltiazem",
+          "dose": ""
+        },
+        {
+          "name": "Lisinopril",
+          "dose": ""
+        },
+        {
+          "name": "Metformin",
+          "dose": ""
+        },
+        {
+          "name": "Glicazide",
+          "dose": ""
+        },
+        {
+          "name": "Orlistat",
+          "dose": "4 days previously"
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "1560165-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Rhinosporidiosis"
+      ],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "1318467-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "psoriasis",
+        "liver disease"
+      ],
+      "medications": [
+        {
+          "name": "coal tar",
+          "dose": ""
+        },
+        {
+          "name": "hydrocortisone ointment",
+          "dose": ""
+        },
+        {
+          "name": "UVB",
+          "dose": ""
+        },
+        {
+          "name": "methotrexate",
+          "dose": "10 mg/week"
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "1444933-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Proteinuria",
+        "Focal and segmental hyalinosis of the kidney",
+        "Uterovaginal agenesis"
+      ],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "545057-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Hodgkin disease",
+        "Kocuria rosea infection"
+      ],
+      "medications": [
+        {
+          "name": "Ifosfamide",
+          "dose": ""
+        },
+        {
+          "name": "Carboplatin",
+          "dose": ""
+        },
+        {
+          "name": "Etoposide",
+          "dose": ""
+        },
+        {
+          "name": "Imipenem/cilastatin",
+          "dose": "2 g/day"
+        },
+        {
+          "name": "Amikacin",
+          "dose": "1 g/day"
+        },
+        {
+          "name": "Vancomycin",
+          "dose": "2 g/day"
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "1552053-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Teratoma",
+        "Non-Hodgkin's lymphoma",
+        "Pulmonary hamartoma"
+      ],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "1562446-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Hemangioma involving minor salivary glands"
+      ],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "1224859-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Coronary Artery Disease",
+        "Ventricular Tachycardia"
+      ],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "553970-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Anaphylaxis",
+        "Acute Coronary Syndrome"
+      ],
+      "medications": [
+        {
+          "name": "Epinephrine",
+          "dose": ".3 mg or .3 ml of a dilution 1:1000"
+        },
+        {
+          "name": "Dimethindene",
+          "dose": "4 mg"
+        },
+        {
+          "name": "Hydrocortizone",
+          "dose": "500 mg"
+        },
+        {
+          "name": "Salbutamol",
+          "dose": "nebulized"
+        },
+        {
+          "name": "Ranitidine hydrochloride",
+          "dose": "50 mg"
+        },
+        {
+          "name": "Acetylsalicylic acid",
+          "dose": "325 mg"
+        },
+        {
+          "name": "Heparin",
+          "dose": "5000 UI"
+        },
+        {
+          "name": "Pethidine hydrochloride",
+          "dose": "25 mg"
+        },
+        {
+          "name": "Nitroglycerin",
+          "dose": "titrated at 25 \u03bcg/min"
+        },
+        {
+          "name": "Reteplase",
+          "dose": "standard protocol"
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "1402319-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Recurrent Hairy Cell Leukemia (HCL)"
+      ],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "1557497-3",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Unstable Angina",
+        "Hypertension",
+        "CoA (Congenital Aortic Stenosis)",
+        "Tree Vessels Disease"
+      ],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "1403788-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Seminoma",
+        "Abdominal mesenteric mass",
+        "Pelvic soft tissue mass"
+      ],
+      "medications": [
+        {
+          "name": "Chemotherapy",
+          "dose": ""
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "1533809-2",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Duodenal ulcer perforation peritonitis",
+        "Cholecytostomy (T-tube) for CBD perforation"
+      ],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "1183227-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Benign anastomotic stricture",
+        "Pharyngeal in-coordination",
+        "Gastrobronchial fistula (GBF)",
+        "Barrett's esophagus"
+      ],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "497050-3",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Secundum Atrial Septal Defect (ASD)",
+        "Palpitations"
+      ],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "1397870-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Traumatic brain death",
+        "Organ donation",
+        "Cardiac amyloidosis",
+        "Chronic severe heart failure",
+        "Multiple myeloma"
+      ],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "1501052-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Hypertrophic Cardiomyopathy (HCM)",
+        "Apical Necrosis",
+        "Diastolic Dysfunction"
+      ],
+      "medications": [
+        {
+          "name": "Beta-Blockers",
+          "dose": ""
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "544835-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Acute inferior myocardial infarction (MI)",
+        "Relapsing fever",
+        "Herpes Simplex encephalitis",
+        "Cerebellar CVA (mother)",
+        "Type 1 diabetes mellitus (brother)",
+        "Vertebrobasilar CVA (father)",
+        "Hodgkin's lymphoma (mother)",
+        "COPD (father)"
+      ],
+      "medications": [
+        {
+          "name": "Aspirin",
+          "dose": ""
+        },
+        {
+          "name": "Nitroglycerin",
+          "dose": ""
+        },
+        {
+          "name": "TPA",
+          "dose": "bolus"
+        },
+        {
+          "name": "Angiotensin receptor blocker",
+          "dose": ""
+        },
+        {
+          "name": "Aspirin",
+          "dose": ""
+        },
+        {
+          "name": "Beta blocker",
+          "dose": ""
+        },
+        {
+          "name": "Folic acid",
+          "dose": ""
+        },
+        {
+          "name": "Statin",
+          "dose": ""
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "1215478-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Functional hyposplenism",
+        "Natural Killer-Large Granular Lymphocytosis (NK-LGL)",
+        "Hashimoto's thyroiditis"
+      ],
+      "medications": [
+        {
+          "name": "Atenolol",
+          "dose": "100 mg once daily"
+        },
+        {
+          "name": "Frusemide",
+          "dose": "40 mg once daily"
+        },
+        {
+          "name": "Penicillin V",
+          "dose": "long term oral"
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "539247-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Diabetes mellitus",
+        "Systemic lupus erythematoses (SLE)",
+        "Lupus nephritis",
+        "Pneumocystitis jiroveci (PCP) infection"
+      ],
+      "medications": [
+        {
+          "name": "Prednisolone",
+          "dose": "30 mg daily"
+        },
+        {
+          "name": "Azathioprine",
+          "dose": "100 mg daily"
+        },
+        {
+          "name": "Ceftazidime",
+          "dose": "1 gram eight hourly (intravenous)"
+        },
+        {
+          "name": "Clarithromycin",
+          "dose": "500 mg twice daily (oral)"
+        },
+        {
+          "name": "Pentamidine",
+          "dose": "4 mg/kg/day (intravenous)"
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "1471777-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Right septal deviation",
+        "Left concha bullosa",
+        "Polypoid hyperplasia"
+      ],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "549514-4",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Mediastinal mass",
+        "Lymphoma",
+        "Malaria (complicated)"
+      ],
+      "medications": [
+        {
+          "name": "Dexametasone",
+          "dose": "I.V."
+        },
+        {
+          "name": "Quinine",
+          "dose": ""
+        },
+        {
+          "name": "Sulphadoxine-pyrimethamine",
+          "dose": ""
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "1557851-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Major Depressive episode, Severe with Psychotic symptoms",
+        "Major Depressive Disorder, Recurrent, Severe with Psychotic features (296.34)",
+        "Bipolar Depression"
+      ],
+      "medications": [
+        {
+          "name": "Mirtazapine",
+          "dose": ">30 mg per day"
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "1192792-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Malignant Melanoma"
+      ],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "526371-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Ulcerative Colitis",
+        "Submucosal Hematoma"
+      ],
+      "medications": [
+        {
+          "name": "Mesalamine",
+          "dose": "1 gram three times a day"
+        },
+        {
+          "name": "Mercaptopurine",
+          "dose": "75 mg once per day"
+        },
+        {
+          "name": "Prednisone",
+          "dose": "10 mg once a day"
+        },
+        {
+          "name": "Ciprofloxacin",
+          "dose": ""
+        },
+        {
+          "name": "Metronidazole",
+          "dose": "IV"
+        },
+        {
+          "name": "Steroids",
+          "dose": "IV, then steroid taper"
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "545954-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Mucinous tumor of borderline malignancy",
+        "Metastatic mucinous cystadenocarcinoma"
+      ],
+      "medications": [
+        {
+          "name": "Cisplatin",
+          "dose": ""
+        },
+        {
+          "name": "Taxol",
+          "dose": ""
+        },
+        {
+          "name": "Carboplatin",
+          "dose": ""
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "497050-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Atrial Septal Defect (ASD)",
+        "Right Ventricular Dilation"
+      ],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "514718-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Metabolic syndrome",
+        "Coronary artery disease",
+        "Cardiac myxoma"
+      ],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "1502065-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Atrial Ventricular Nodal Re-entrant Tachycardia (AVNRT)",
+        "Intratrial Left Ventricular Tachycardia (ILVT)"
+      ],
+      "medications": [
+        {
+          "name": "Verapamil",
+          "dose": ""
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "519028-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Malignant melanoma with spitzoid features"
+      ],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "544864-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Left hemispheric cerebral mass",
+        "Cystic component",
+        "Tumor attachment to dura"
+      ],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "1190163-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Bladder polypoid tumor"
+      ],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "1097763-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Inflammatory Myofibroblastic Tumor (IMT) of the Gallbladder",
+        "Acute Cholecystitis"
+      ],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "1501069-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Non-sustained ventricular tachycardia",
+        "Supraventricular tachycardia (AVNRT or atrial tachycardia)",
+        "Ventricular premature beats"
+      ],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "1199590-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Heart Failure",
+        "Aortic Stenosis",
+        "Mitral Annulus Calcification",
+        "Diastolic Dysfunction"
+      ],
+      "medications": [
+        {
+          "name": "Enalapril",
+          "dose": ">20 mg/day"
+        },
+        {
+          "name": "Furosemide",
+          "dose": ">20 mg/day"
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "535544-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Large-cell carcinoma of the lung",
+        "Adrenal metastasis from lung primary",
+        "Severe anemia (normocytic)",
+        "Leukemoid reaction within a paraneoplastic syndrome"
+      ],
+      "medications": [
+        {
+          "name": "Paclitaxel",
+          "dose": "urgent chemotherapy"
+        },
+        {
+          "name": "Carboplatin",
+          "dose": "urgent chemotherapy"
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "1164400-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Obsessive-Compulsive Disorder (OCD)"
+      ],
+      "medications": [
+        {
+          "name": "Fluoxetine",
+          "dose": ">20mg/day, gradually increased to 60mg/day"
+        },
+        {
+          "name": "Fluoxetine",
+          "dose": "60mg/day"
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "517503-2",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Ethanol-related cirrhosis",
+        "Hepatitis B-related cirrhosis",
+        "Large hepatocellular carcinoma"
+      ],
+      "medications": [
+        {
+          "name": "Methylprednisolone",
+          "dose": "500 mg (intraoperatively)"
+        },
+        {
+          "name": "Antithymocyte Globulin",
+          "dose": "(postoperatively, no specific dose mentioned)"
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "1208923-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Mitral regurgitation",
+        "Aortic regurgitation",
+        "Left ventricular hypertrophy",
+        "Alveolar edema",
+        "Supravalvular ring (mitral valve)",
+        "Coronary angiography normal"
+      ],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "546197-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Aorto-atrial fistula (AAF)",
+        "Heart failure",
+        "Rheumatic heart disease"
+      ],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "1562402-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Mucopolysaccharidosis (PFD)",
+        "Quadriparesis"
+      ],
+      "medications": [
+        {
+          "name": "IV methylprednisolone",
+          "dose": "1 gm OD for 5 days"
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "1283745-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "ST-segment-elevation myocardial infarction",
+        "Ventricular septal defect"
+      ],
+      "medications": [
+        {
+          "name": "Aspirin",
+          "dose": "100 mg/day"
+        },
+        {
+          "name": "Clopidogrel",
+          "dose": "75 mg/day"
+        },
+        {
+          "name": "Simvastatin",
+          "dose": "20 mg/day"
+        },
+        {
+          "name": "Enalapril",
+          "dose": "10 mg/day"
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "1395322-2",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Short-term memory impairment",
+        "Early Parkinsonism",
+        "Borderline hypothyroidism"
+      ],
+      "medications": [
+        {
+          "name": "L-dopa",
+          "dose": ""
+        },
+        {
+          "name": "Cyano-B12 (1000 \u03bccg)",
+          "dose": "daily oral"
+        },
+        {
+          "name": "Folic acid (5 mg)",
+          "dose": "daily oral"
+        },
+        {
+          "name": "NAC (600 mg)",
+          "dose": "daily oral"
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "1557797-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Malignant peripheral nerve sheath tumor",
+        "Subcutaneous metastasis"
+      ],
+      "medications": [
+        {
+          "name": "Doxorubicin",
+          "dose": "8 cycles"
+        },
+        {
+          "name": "Bleomycine",
+          "dose": "60 USP-E (4 USP-E/mL)"
+        },
+        {
+          "name": "Ifosfamide",
+          "dose": ""
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "546198-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Ewing's Sarcoma"
+      ],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "527874-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Tuberous Sclerosis",
+        "Leiomyoma",
+        "Hemorrhagic Cyst"
+      ],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "1544321-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Acute Appendicitis",
+        "Tuberculosis of the Appendix"
+      ],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "529310-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Adenocarcinoma on the left lower lung",
+        "Stage T4N3M0IIIb"
+      ],
+      "medications": [
+        {
+          "name": "CAP + rmhT NF injection (i.m.)",
+          "dose": "from October 4 to November 14, 2001"
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "1257603-2",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Overcholinergic syndrome"
+      ],
+      "medications": [
+        {
+          "name": "Atropine",
+          "dose": ".2 mg"
+        },
+        {
+          "name": "Anti-emetics",
+          "dose": ""
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "1475874-3",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Follicular lymphoma",
+        "Dyspepsia"
+      ],
+      "medications": [
+        {
+          "name": "CVP chemotherapy",
+          "dose": "sequential for five cycles"
+        },
+        {
+          "name": "Rituximab",
+          "dose": "sequential for four cycles"
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "1435921-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Hodgkin's lymphoma",
+        "Renal cell cancer (grade II)",
+        "Chronic obstructive pulmonary disease (COPD)",
+        "Diabetes mellitus"
+      ],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "1420313-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Inflammatory Pseudotumor"
+      ],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "1314921-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Acute Polyneuropathy"
+      ],
+      "medications": [
+        {
+          "name": "Steroid",
+          "dose": "prescribed for treatment of possible acute inflammatory effects on neurons"
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "1327670-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Varicella Zoster Virus (VZV) infection"
+      ],
+      "medications": [
+        {
+          "name": "Acyclovir",
+          "dose": "800 mg every 8 hours"
+        },
+        {
+          "name": "Acyclovir",
+          "dose": "800 mg 5 times daily for 16 days"
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "1388193-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Nasal neoplasm",
+        "EBV infection"
+      ],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "1368977-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "breast cancer"
+      ],
+      "medications": [
+        {
+          "name": "temazepam",
+          "dose": "10 mg"
+        },
+        {
+          "name": "midazolam",
+          "dose": "1 mg i.v."
+        },
+        {
+          "name": "lignocaine",
+          "dose": "1% with 1:200,000 adrenaline"
+        },
+        {
+          "name": "marcaine",
+          "dose": "0.5%"
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "1299324-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Hepatic dysfunction",
+        "Fibrinogen-related liver disease"
+      ],
+      "medications": [
+        {
+          "name": "Estrogen therapy",
+          "dose": null
+        },
+        {
+          "name": "None",
+          "dose": null
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "544356-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Bladder outlet obstruction",
+        "Poorly differentiated carcinoma of the prostate",
+        "Obstructive uropathy",
+        "Peritonitis"
+      ],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "1550409-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Infective Endocarditis",
+        "MRSA (Methicillin-resistant Staphylococcus aureus)",
+        "Osteomyelitis",
+        "Pulmonary Infarction"
+      ],
+      "medications": [
+        {
+          "name": "Oxacillin",
+          "dose": "16 gr/day"
+        },
+        {
+          "name": "Gentamycin",
+          "dose": "240 mg/day"
+        },
+        {
+          "name": "Teicoplanin",
+          "dose": "1200 mg/12 h/IV"
+        },
+        {
+          "name": "Cotrimoxazole",
+          "dose": "480 mg/12 h/IV"
+        },
+        {
+          "name": "Linezolid",
+          "dose": "600 mg daily iv"
+        },
+        {
+          "name": "Vancomycin",
+          "dose": "500 mg/6 h/IV"
+        },
+        {
+          "name": "Rifampicin",
+          "dose": "600 mg/8 h/IV"
+        },
+        {
+          "name": "Quinupristin/dalfopristin",
+          "dose": "7.5 mg-Kg/8 h/IV"
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "1555577-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Seizure disorder",
+        "Psychosis"
+      ],
+      "medications": [
+        {
+          "name": "Oxcarbazepine",
+          "dose": "600 mg twice daily"
+        },
+        {
+          "name": "Valproic acid",
+          "dose": "500 mg three times daily, 750 mg at night"
+        },
+        {
+          "name": "Lorazepam",
+          "dose": "1 mg three times daily for 3 days, then tapered"
+        },
+        {
+          "name": "Olanzapine",
+          "dose": "15 mg daily"
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "1166581-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Localized Castleman's disease (hyaline vascular type)",
+        "Right upper quadrant mass",
+        "Malignant retroperitoneal tumor (considered but not confirmed)"
+      ],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "546198-4",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Malignant Fibrous Histiocoma of the left thigh",
+        "Rotator Cuff Pathology"
+      ],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "1557506-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Locally advanced prostatic carcinoma",
+        "Benign prostatic hyperplasia (BPH)",
+        "Xanthogranulomatous inflammation"
+      ],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "1182401-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Rectal schwannoma",
+        "Adenocarcinoma of the splenic flexure",
+        "Tubulovillous adenoma of the descending colon"
+      ],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "1395313-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "sigmoid colon cancer",
+        "multiple costal metastases"
+      ],
+      "medications": [
+        {
+          "name": "S-1",
+          "dose": "50 mg/m2 (initial), 40 mg/m2 (after grade 3 liver dysfunction and grade 2 diarrhea)"
+        },
+        {
+          "name": "CPT-11",
+          "dose": "40 mg/m2"
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "549514-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Yellow Fever",
+        "Complicated Malaria"
+      ],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "1187928-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Hyperparathyroidism",
+        "Mild Renal Failure",
+        "Peptic Ulcer",
+        "Parathyroid Carcinoma"
+      ],
+      "medications": [
+        {
+          "name": "Bisphosphonates",
+          "dose": "preoperatively"
+        },
+        {
+          "name": "Calcium",
+          "dose": "postoperatively"
+        },
+        {
+          "name": "Vitamin D",
+          "dose": "postoperatively"
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "1502064-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Chronic Renal Insufficiency",
+        "Dyslipidemia",
+        "Hypertension",
+        "Peripheral Arterial Disease",
+        "Coronary Artery Disease",
+        "Unstable Angina",
+        "Deep Venous Thrombosis",
+        "Ventricular Tachycardia",
+        "AICD Extrusion"
+      ],
+      "medications": [
+        {
+          "name": "Warfarin",
+          "dose": ""
+        },
+        {
+          "name": "Metoprolol XL",
+          "dose": "50 mg daily"
+        },
+        {
+          "name": "Aspirin",
+          "dose": "81 mg daily"
+        },
+        {
+          "name": "Clopidogrel",
+          "dose": "75 mg daily"
+        },
+        {
+          "name": "Atorvastatin",
+          "dose": "10 mg daily"
+        },
+        {
+          "name": "Isoorbide Mononitrate",
+          "dose": "20 mg daily"
+        },
+        {
+          "name": "Gabapentin",
+          "dose": "300 mg daily"
+        },
+        {
+          "name": "Vancomycin",
+          "dose": "1 g intravenously q 12h"
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "1382255-2",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "1315324-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Rectovaginal fistula",
+        "Colonic obstruction due to cancer of the sigmoid colon"
+      ],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "1464147-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Ectopic ACTH syndrome",
+        "Hyperthyroidism",
+        "Cushing's syndrome",
+        "Neuroendocrine carcinoma of the mesentery"
+      ],
+      "medications": [
+        {
+          "name": "Methimazole",
+          "dose": ""
+        },
+        {
+          "name": "Metyrapone",
+          "dose": "2.5 g/d (750 mg in the morning, 750 mg at noon, and 1 g in the evening)"
+        },
+        {
+          "name": "Hydrocortisone",
+          "dose": "10 mg in the morning, 10 mg at noon, and 5 mg in the evening"
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "1557485-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Mesenteric venous thrombosis",
+        "Ischemic small bowel",
+        "Acute renal failure",
+        "Metabolic acidosis",
+        "Infectious diarrhea"
+      ],
+      "medications": [
+        {
+          "name": "Levofloxacin",
+          "dose": ""
+        },
+        {
+          "name": "Metronidazole",
+          "dose": ""
+        },
+        {
+          "name": "Heparin infusion",
+          "dose": ""
+        },
+        {
+          "name": "RhAPC (recombinant human activated protein C)",
+          "dose": "96 hour course"
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "1456975-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Poorly differentiated glycogen-bearing carcinoma",
+        "Thymic origin (clear cell carcinoma)",
+        "Metastatic Ewing's sarcoma"
+      ],
+      "medications": [
+        {
+          "name": "Cyclophosphamide",
+          "dose": "200 mg/m2/day for two days"
+        },
+        {
+          "name": "Steroids",
+          "dose": ""
+        },
+        {
+          "name": "Vincristine",
+          "dose": "1.5 mg/m2 day 1"
+        },
+        {
+          "name": "Ifosfamide",
+          "dose": "3 g/m2 day 1-3"
+        },
+        {
+          "name": "Doxorubicin",
+          "dose": "20 mg/m2 day 1-3"
+        },
+        {
+          "name": "Etoposide",
+          "dose": "150 mg/m2 day 1-3"
+        },
+        {
+          "name": "Docetaxel",
+          "dose": "30 mg/m2 weekly"
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "1395322-3",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Alzheimer's disease (probable)",
+        "Vitamin B12 deficiency",
+        "Dementia"
+      ],
+      "medications": [
+        {
+          "name": "Hydroxo-B12 injections",
+          "dose": "1,000 \u03bcg (monthly)"
+        },
+        {
+          "name": "Acetylcholinesterase inhibitor",
+          "dose": "(initially improved MMSE score from 13/30 to 15/30)"
+        },
+        {
+          "name": "N-Acetylcysteine (NAC)",
+          "dose": "600 mg daily"
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "1526441-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Phase II spinal degeneration (clinical instability)"
+      ],
+      "medications": []
+    }
+  },
+  {
+    "note_id": "1431597-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Ventricular Tachycardia (VT)",
+        "Diabetes",
+        "Hypertension",
+        "Hyperlipidemia"
+      ],
+      "medications": [
+        {
+          "name": "Atenolol",
+          "dose": "100 mg/d"
+        },
+        {
+          "name": "Amiodarone",
+          "dose": "200 mg/d"
+        },
+        {
+          "name": "Enalapril",
+          "dose": "5 mg/bid"
+        },
+        {
+          "name": "Glibenclamide",
+          "dose": "5 mg/bid"
+        },
+        {
+          "name": "Nitroglycerin spray",
+          "dose": "as needed"
+        },
+        {
+          "name": "Lidocaine",
+          "dose": "intravenous"
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "548138-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Poorly differentiated serous papillary cystadenocarcinoma (ovarian cancer, stage 4)",
+        "End-stage liver disease (ESLD) secondary to hepatitis C"
+      ],
+      "medications": [
+        {
+          "name": "Tacrolimus",
+          "dose": "6 mg/day (initial), then reduced to 1.5 mg/day"
+        },
+        {
+          "name": "Prednisone",
+          "dose": "10 mg/day (as part of post-transplant immunosuppressive regimen)"
+        },
+        {
+          "name": "Taxol",
+          "dose": "50 mg/m2 I.V, once a week for 16 weeks"
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "545056-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Perforated colonic tumor",
+        "Abscess formation",
+        "Local peritonitis"
+      ],
+      "medications": [
+        {
+          "name": "Penicillin",
+          "dose": "Systemic intravenous (10 days) followed by oral (6 months)"
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "1526752-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Bilateral acute angle closure glaucoma",
+        "Ciliary block glaucoma",
+        "Microspherophakia"
+      ],
+      "medications": [
+        {
+          "name": "Injection Mannitol 20%",
+          "dose": "350 ml stat."
+        },
+        {
+          "name": "Systemic acetazolamide",
+          "dose": "250 mg four-times-a day"
+        },
+        {
+          "name": "Syrup Glycerol",
+          "dose": "30 ml thrice-a-day"
+        },
+        {
+          "name": "Topical timolol maleate",
+          "dose": "0.5% twice-a-day"
+        },
+        {
+          "name": "Brimonidine",
+          "dose": "0.15% twice-a-day"
+        },
+        {
+          "name": "Atropine sulphate",
+          "dose": "1% drops thrice a day"
+        }
+      ]
+    }
+  },
+  {
+    "note_id": "516788-1",
+    "status": "success",
+    "extraction": {
+      "primary_diagnoses": [
+        "Bilateral breast masses",
+        "Recurrent plasmacytoma"
+      ],
+      "medications": [
+        {
+          "name": "Melfalan",
+          "dose": "oral"
+        },
+        {
+          "name": "Prednisone",
+          "dose": "oral"
+        }
+      ]
+    }
+  }
+]

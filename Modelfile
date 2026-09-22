@@ -1,0 +1,1 @@
+FROM ./clinical_llama.gguf

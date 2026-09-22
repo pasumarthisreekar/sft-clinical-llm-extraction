@@ -1,0 +1,27 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Model outputs / weights (large binary files)
+outputs/
+llama3_clinical_extraction_lora/
+llama3.1_clinical_model/
+*.gguf
+*.safetensors
+*.bin
+
+# Raw data (keep small samples in repo, not full/processed dumps)
+data/raw/
+data/processed/
+
+# Eval result JSON (can be large; keep if you want results visible on GitHub)
+# base_model_eval_results.json
+# finetuned_eval_results.json
+
+# OS
+.DS_Store

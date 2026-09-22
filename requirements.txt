@@ -1,0 +1,11 @@
+torch
+unsloth
+transformers
+trl
+datasets
+peft
+pandas
+pydantic
+ollama
+google-genai
+python-dotenv
